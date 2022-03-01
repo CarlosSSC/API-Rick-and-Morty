@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+  }
+.back{
+    background-color: rgb(65, 3, 165);
+}
+.logo {
+    display:block;
+    margin:auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: auto;
+    height: 150px;
+    border-radius: 25px;
+}

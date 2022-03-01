@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: rgb(65, 3, 165);
+}
+
+.Details__container {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
+    width: 600px;
+    height: 650px;
+    background-color: #0e8397;
+    border-color: rgb(255, 255, 255);
+    border: 10px;
+
+}
+
+.Details__img{
+    float: right;
+}
+
+img{
+    width: 320px;
+    height: 450px;
+    padding-left: 5px;
+}
+h1{
+    text-align: center;
+    color:rgb(255, 255, 255) ;
+}
+h3{
+    text-align: left;
+    margin: 12px;
+    color: #ffffff;
+    
+}
+.Data__row p, small{
+    color: rgb(255, 255, 255);
+}
